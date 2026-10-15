@@ -1,0 +1,10 @@
+{
+  "name": "hunter-skill",
+  "description": "A headhunter of five Claudes (a headhunter, a recruiter, a hiring manager, a resume writer and a form filler) that finds new jobs that fit you, scores each one out of 100, rewrites your resume and cover letter for the high scores, and fills out the application. It never submits: you tap yes and send it.",
+  "version": "1.0.0",
+  "author": {"name": "Alex Chen", "url": "https://chen.media"},
+  "homepage": "https://chen.media/guides/let-5-claudes-find-jobs-and-fill-out-your-applications-set-up-the-free-hunter-skill",
+  "repository": "https://github.com/alexyc9381/hunter-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "job-search", "resume", "cover-letter", "career", "hiring"]
+}

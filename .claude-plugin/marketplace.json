@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hunter-skill",
+  "description": "The hunter skill for Claude Code",
+  "owner": {"name": "Alex Chen"},
+  "plugins": [{"name": "hunter-skill", "description": "A headhunter of five Claudes that finds jobs that fit you, scores each one out of 100, tailors your resume and cover letter, and fills out the application for your yes.", "source": "./", "category": "productivity", "author": {"name": "Alex Chen", "url": "https://chen.media"}, "homepage": "https://chen.media/guides/let-5-claudes-find-jobs-and-fill-out-your-applications-set-up-the-free-hunter-skill"}]
+}
